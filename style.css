@@ -19,7 +19,7 @@ body {
 }
 
 .card-header {
-    background-color: #ff0066;
+    background-color: hsl(336, 100%, 50%);
     color: #fff;
     padding: 20px;
 }
